@@ -50,7 +50,11 @@ a:hover {
     padding-right: 100px;
 }
 .poisk {
-	
+	background-color: #656161d9;
+    width: 100%;
+    text-align: center;
+    display: table;
+    height: 500px;
 }
 .tovary {
 	    background-color: #656161fa;
