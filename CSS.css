@@ -32,7 +32,7 @@ a:hover {
     
     width: 100%;
     height: 500px;
-    
+    padding: 20px;
     }
 .aboutblok {
 	float: left;
@@ -43,6 +43,7 @@ a:hover {
     width: 922px; /*Фиксируем ширину блока*/
     margin-right: 1px;
     text-align: center; /*Центрируем текст по горизонтали*/
+	
 
 }
 .li {
@@ -50,7 +51,7 @@ a:hover {
     padding-right: 100px;
 }
 .poisk {
-	background-color: #656161d9;
+
     width: 100%;
     text-align: center;
     display: table;
